@@ -1,3 +1,0 @@
-:root{--gold:#D4A017;--dark:#1a1208;--dark2:#241a0a;--cream:#fdf6e3;--orange:#e87722;--text:#3a2a0a}
-*{margin:0;padding:0;box-sizing:border-box}html{scroll-behavior:smooth}
-body{font-family:'DM Sans',sans-serif;background:var(--cream);color:var(--text);overflow-x:hidden}
